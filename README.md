@@ -3,7 +3,8 @@
 ## Описание: **DCRat** это программа из разряда **RAT** (расшифр. **R**emote **A**ccess **T**rojan) Так-же программа является **платной**, решил с вами поделится, указав ниже ссылку с архивом с программой внутри.
 
 СКАЧАТЬ:
-[Скачать](https://mega.nz/file/YUAmSZAD#7IWbzORLSJZhQhKvDsqJBuZXls4u88SuniSKpKmyvwI)
+[DCRat - MEGA](https://mega.nz/file/IEYiCAyA#tVJ94EcUcgyGOICGfig81JRSfqJRBZWLUJYoTcU1rGU)
+[DCRat - Drive](https://drive.google.com/file/d/1wStuGGXvVy_7rwTfv4TBElVNjzZdy3dq/view?usp=sharing)
 ПАРОЛЬ: 123
 
 ## Скрины:
